@@ -164,22 +164,6 @@ class MonthName:
     ### END SOLUTION
 ```
 
-## 07. Define a function `import_zip_codes_json()` which imports the `zip_codes.json` as a `list` in working directory.
-
-```python
-def import_zip_codes_json() -> list:
-    """
-    >>> zip_codes_json = import_zip_codes_json()
-    >>> type(zip_codes_json)
-    list
-    >>> len(zip_codes_json)
-    378
-    """
-    ### BEGIN SOLUTION
-    
-    ### END SOLUTION
-```
-
 ## 08. Define a function `import_teams_json` which imports the `teams.json` as a `dict` in working directory.
 
 ```python
